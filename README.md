@@ -25,6 +25,7 @@ Order is alphabetical.
 - [CakePHP](https://github.com/cakephp/cakephp-codesniffer) - Official package for CakePHP.
 - [Laminas](https://github.com/laminas/laminas-coding-standard) - The coding standard ruleset for Laminas components.
 - [Laravel](https://github.com/InteractionDesignFoundation/coding-standard) - PHPCS coding-standard for Laravel applications and packages.
+- [WordPress/WordPress-Coding-Standards](https://github.com/WordPress/WordPress-Coding-Standards) - PHP_CodeSniffer rules (sniffs) to enforce WordPress coding conventions. 
 
 ## Other
 *Collection of packages for the tools listed above*
