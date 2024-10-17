@@ -16,7 +16,7 @@ Order is alphabetical.
 # Tools
 
 - [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - Tokenizer based sniffer and fixer tool for various PHP Coding standards.
-- [PHP-CS-Fixer](PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues.
+- [PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues.
 
 # Code Sniffers/Fixers
 
