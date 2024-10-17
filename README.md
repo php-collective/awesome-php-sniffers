@@ -11,6 +11,7 @@ Order is alphabetical.
   - [Framework specific](#framework-specific)
   - [Other](#other)
   - [Helpers](#helpers)
+- [Resources](#resources)
 
 # Tools
 
@@ -41,3 +42,10 @@ Order is alphabetical.
 *Helper utilities or libraries around the use of sniffer or fixer collections*
 
 - [PHPCSStandards/PHPCSUtils](https://github.com/PHPCSStandards/PHPCSUtils) - A suite of utility functions for use with PHP_CodeSniffer.
+
+# Resources
+
+- [PSR-1](https://www.php-fig.org/psr/psr-1/) - Basic Coding Standard.
+- [PSR-2](https://www.php-fig.org/psr/psr-2/) - Coding Style Guide {deprecated}.
+- [PSR-12](https://www.php-fig.org/psr/psr-12/) - Extends, expands and replaces PSR-2, the coding style guide.
+- [PER 2.0](https://www.php-fig.org/per/coding-style/) - Latest successor of PSR standards (extends, expands and replaces PSR-12).
